@@ -40,6 +40,7 @@ const projects: Project[] = [
     description: 'Beauty care companion app with personalized routines and product recommendations.',
     techStack: ['React Native', 'Firebase', 'Node.js', 'AI/ML'],
     github: 'https://github.com/sutapa703/glowzy',
+    demo:'https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.local-credentialless.webcontainer-api.io/dashboard',
     image: 'https://images.pexels.com/photos/3373714/pexels-photo-3373714.jpeg?auto=compress&cs=tinysrgb&w=600'
   },
   {
@@ -108,7 +109,7 @@ const projects: Project[] = [
     description: 'Disney princess virtual pet app with interactive games and care activities.',
     techStack: ['React Native', 'Firebase', 'Animations', 'Game Logic'],
     github: 'https://github.com/sutapa703/princessia',
-    demo: 'https://princessia-game.vercel.app',
+    demo: 'https://princessiav1.netlify.app/',
     image: 'https://images.pexels.com/photos/1374510/pexels-photo-1374510.jpeg?auto=compress&cs=tinysrgb&w=600'
   }
 ];
